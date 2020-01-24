@@ -111,9 +111,7 @@ def printArray(array, n):
 	for i in range(0, n): 
 		print(array[i], end = " ") 
 	print() 
-
 	
-# Driver program to test above function 
 if __name__ == "__main__": 
 
 	array = [5, 21, 7, 23, 19] 
