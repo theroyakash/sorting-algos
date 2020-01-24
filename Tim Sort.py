@@ -76,6 +76,7 @@ def merge(array, l, m, r):
 # iterative Timsort function to sort the 
 # array[0...n-1] (similar to merge sort) 
 
+# Tim Sort
 def timSort(array, n): 
 
 	# Sort individual subarrays of size RUN 
